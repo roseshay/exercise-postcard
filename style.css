@@ -1,0 +1,15 @@
+.hero{
+    border: 1px solid black;
+    display: flex;
+justify-content: space-between; 
+align-items: center;
+}
+body{
+    width: 500px;
+  display: flex;   
+  justify-content: center; 
+  flex-direction: column;
+}
+img{
+    width: 200px;
+}
